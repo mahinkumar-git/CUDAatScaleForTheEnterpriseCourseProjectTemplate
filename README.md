@@ -73,6 +73,7 @@ This project implements the Canny edge detection algorithm using CUDA to take ad
 
 ## Sample Output
 
-|Input|Output|
-|:-:|:-:|
-|![image4885](https://github.com/user-attachments/assets/5f01939e-a07a-4b5d-ba97-5dad20abc952) |![canny_edges_7](https://github.com/user-attachments/assets/98a54f9d-528b-41bd-ad14-73a717963e16) |
+<img src="https://github.com/user-attachments/assets/5a43e30f-11e8-43ad-854f-1b526f35701c" width="720">
+<img src="https://github.com/user-attachments/assets/1fa6b3cc-f751-413c-ad2b-353f7661c680" width="720">
+
+
